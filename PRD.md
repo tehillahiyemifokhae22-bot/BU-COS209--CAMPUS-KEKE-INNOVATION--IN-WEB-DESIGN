@@ -164,8 +164,16 @@ The system must be able to:
 4 . Display available Keke drivers to users.
 5 . Allow administrators to manage user accounts.
 
+## 9.1 Non Functional Requirement
+1 . The platform should load available Keke information quickly so users do not waste time waiting.
+2 . The platform saves the users and driver personal information to protet from unauthorized accesss.
+3 . The platform will be easy and simple to operate.
 
-## 10. Success Criteria
+## 10 User Stories
+1 . As a User, I want to be able to view if Keke's are available and I want to be able to see their locatio.
+2 . As a Keke driver i want to be able to update my status, so users can see if im available.
+
+## 11. Success Criteria
 CampusKeke will be successful if:
 
 -Users can register and access the platform.
@@ -174,11 +182,11 @@ CampusKeke will be successful if:
 -Availability information displays its last updated time.
 -Administrators can successfully manage drivers and users accounts.
 
-## 11. Conclusion
+## 12. Conclusion
 CampusKeke is proposed as the solution to transportation difficulties experienced by users within Babcock University. By providing information about available Keke and their locations, the platform aims to make campus transportation easier and faster and more convenient.
 
 
-## 12. Team Members and Project Contributors
+## 13. Team Members and Project Contributors
 
 ### Team Members
 -Group leader-Iyemifokhae Tehillah Irobere 
